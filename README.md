@@ -1,4 +1,4 @@
-# Grafos-T290
+# Grafos
 Repositório destinado a armazenar os trabalhos da disciplina de Grafos da Universidade de Fortaleza (UNIFOR)
 
 # Google Colaboratory
